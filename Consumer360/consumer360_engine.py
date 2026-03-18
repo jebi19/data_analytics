@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "root", 
+    "password": "*********", 
     "database": "consumer360"
 }
 
